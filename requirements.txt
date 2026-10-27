@@ -1,0 +1,5 @@
+# Used by Vercel for the api/ function. Keep in sync with backend/requirements.txt.
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+httpx==0.28.1
+tzdata==2025.1
